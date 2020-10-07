@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am i0gan.  a unknown developer in BeiJing, China cn.
+I am i0gan, a unknown developer in BeiJing
 
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning ...
 
 
 ### 💬 Ask me about ...
