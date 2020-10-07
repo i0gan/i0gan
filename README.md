@@ -11,5 +11,6 @@ I am i0gan.  a unknown developer in BeiJing, China cn.
 - or something like that
 - 
 ### mailbox How to reach me
-- e-mail Email l418894113@gmail.com
-- memo Blog http://blog.i0gan.cn
+- Email: l418894113@gmail.com
+- Blog : http://blog.i0gan.cn
+- Web  : http://www.i0gan.cn
