@@ -3,9 +3,10 @@
 - I'm i0gan! you can call me logan also.
 ### mailbox How to reach me
 - Email: i0gan@qq.com
-	
+<!--
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i0gan&theme=github_dark" alt="i0gan" align = "center"/></p>
+-->
 
  <summary><b>⚡ Github Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=i0gan&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="i0gan" align = "center"/>
