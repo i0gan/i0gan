@@ -18,10 +18,10 @@
 - Email: i0gan@qq.com
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i0gan&layout=compact)](https://github.com/i0gan/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i0gan&layout=compact)](https://github.com/i0gan/github-readme-stats)
 
 [![i0gan's github stats](https://github-readme-stats.vercel.app/api?username=i0gan&show_icons=true&theme=radical)](https://github.com/i0gan/github-readme-stats)
-
+-->
 
 
 
@@ -30,15 +30,16 @@
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i0gan&theme=github_dark" alt="i0gan" align = "center"/></p>
 
+
   <summary><b>⚡ Github Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=i0gan&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="i0gan" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=i0gan&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="i0gan" align = "center"/></p>
 
- <summary><b>🔥 Github Streaks</b></summary>
+<summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=i0gan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="i0gan" /></p>
 
 <summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TopCodeBeast&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=i0gan&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 <!-- </details>
 <details>    -->
  <summary><b>🏆 Github Achievements</b></summary>
