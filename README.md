@@ -1,5 +1,5 @@
 
-<p align="center"> <a href="https://github.com/i0gan"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm I0gan;How are u doing?)](https://git.io/typing-svg" alt="i0gan" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+I0gan;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 ## 🧑 About me:
 ### Hi there 👋
