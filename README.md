@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm I0gan;How are u doing?)](https://git.io/typing-svg)
+
+<p align="center"> <a href="https://github.com/i0gan"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm I0gan;How are u doing?)](https://git.io/typing-svg" alt="i0gan" /></a> </p>
 
 ## 🧑 About me:
 ### Hi there 👋
