@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm I0gan;How are u doing?)](https://git.io/typing-svg)
+
 ## 🧑 About me:
 ### Hi there 👋
 - I'm i0gan! you can call me logan also.
