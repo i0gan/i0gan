@@ -3,7 +3,7 @@
 
 ## 🧑 About me:
 ### Hi there 👋
-- I'm i0gan! you can call me logan also.
+- I'm i0gan! you can call me logan also. Wanna be a free game developer.
 ### mailbox How to reach me
 - Email: i0gan@pwnsky.com
 <!--
