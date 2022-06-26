@@ -6,6 +6,7 @@
 - I'm i0gan! you can call me logan also. Wanna make games more funny.
 ### mailbox How to reach me
 - Email: i0gan@pwnsky.com
+- QQ Group： 729054809
 <!--
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i0gan&theme=github_dark" alt="i0gan" align = "center"/></p>
