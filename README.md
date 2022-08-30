@@ -3,11 +3,16 @@
 
 ## 🧑 About me:
 ### Hi there 👋
-- I'm i0gan! you can call me logan also. Wanna make games more funny.
+- I'm i0gan! you can call me logan also. Wanna make games more funny. I work at pwnsky, I very enjoy it!
+
+  ![img](./images/pwnsky_logo.gif)
+
+  
+
 ### mailbox How to reach me
 - Email: i0gan@pwnsky.com
 - QQ Group： 729054809
-<!--
+  <!--
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i0gan&theme=github_dark" alt="i0gan" align = "center"/></p>
 -->
@@ -27,3 +32,6 @@
  <summary><b>🏆 Github Achievements</b></summary>
 <p align="center"> <a href="https://github.com/i0gan"><img src="https://github-profile-trophy.vercel.app/?username=i0gan&margin-w=5&theme=radical" alt="i0gan" /></a> </p>
 <br>
+
+
+
