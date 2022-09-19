@@ -5,7 +5,6 @@
 ### Hi there 👋
 - I'm i0gan! you can call me logan also. Wanna make games more funny. I work at pwnsky, I very enjoy it!
 
-  ![img](./images/pwnsky_logo.gif)
 
   
 
