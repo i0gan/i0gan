@@ -3,7 +3,7 @@
 
 ## 🧑 About me:
 ### Hi there 👋
-- I'm i0gan! you can call me logan also. Wanna make games more funny. I work at pwnsky, I very enjoy it!
+- I'm i0gan! you can call me logan also. making games more funny.
 
 
   
