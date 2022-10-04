@@ -35,6 +35,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![unity](https://img.shields.io/badge/-unity-00599C?style=flat-square&logo=unity)
+![ue4](https://img.shields.io/badge/-ue4-00599C?style=flat-square&logo=ue4)
+![vue](https://img.shields.io/badge/-vue-00599C?style=flat-square&logo=vue)
 <!--
 <summary><b>📊 Github Contribution Graph</b></summary>
 <p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=i0gan&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
