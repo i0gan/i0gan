@@ -18,8 +18,12 @@
 
 ### ⚡ Technologies
 
-![Go](https://img.shields.io/badge/-go-%23E44D27?style=flat-square&logo=go&logoColor=ffffff)
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![C#](https://img.shields.io/badge/-Csharp-00599C?style=flat-square&logo=csharp)
+![Go](https://img.shields.io/badge/-go-%23E44D27?style=flat-square&logo=go&logoColor=ffffff)
+![lua](https://img.shields.io/badge/-lua-00599C?style=flat-square&logo=lua)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -30,7 +34,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
+![unity](https://img.shields.io/badge/-unity-00599C?style=flat-square&logo=unity)
 <!--
 <summary><b>📊 Github Contribution Graph</b></summary>
 <p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=i0gan&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
