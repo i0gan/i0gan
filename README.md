@@ -45,5 +45,5 @@
 <p align="center"> <a href="https://github.com/i0gan"><img src="https://github-profile-trophy.vercel.app/?username=i0gan&margin-w=5&theme=radical" alt="i0gan" /></a> </p>
 <br>
 
-![](https://raw.githubusercontent.com/i0gan/i0gan/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/i0gan/i0gan/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
 
