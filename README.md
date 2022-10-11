@@ -16,7 +16,7 @@
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i0gan&theme=github_dark" alt="i0gan" align = "center"/></p>
 -->
 
-### ⚡ Coding Language & Script
+### ⚡ Coding Language | Script
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -32,7 +32,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 
-### ⚡ Developing Os | Sofeware | tools
+### ⚡ Developing Os | Sofeware | Tool
 ![archlinux](https://img.shields.io/badge/-archlinux-00599C?style=flat-square&logo=archlinux)
 ![docker](https://img.shields.io/badge/-docker-00599C?style=flat-square&logo=docker)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
