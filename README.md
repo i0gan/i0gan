@@ -44,7 +44,7 @@
 ![rider](https://img.shields.io/badge/-rider-00599C?style=flat-square&logo=rider)
 ![vscode](https://img.shields.io/badge/-vscode-00599C?style=flat-square&logo=vscode)
 ![gimp](https://img.shields.io/badge/-gimp-00599C?style=flat-square&logo=gimp)
-
+![git](https://img.shields.io/badge/-git-00599C?style=flat-square&logo=git)
 
 <!--
 <summary><b>📊 Github Contribution Graph</b></summary>
