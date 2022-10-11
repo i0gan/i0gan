@@ -24,7 +24,7 @@
 ![C#](https://img.shields.io/badge/-Csharp-00599C?style=flat-square&logo=csharp)
 ![Go](https://img.shields.io/badge/-go-%23E44D27?style=flat-square&logo=go&logoColor=ffffff)
 ![lua](https://img.shields.io/badge/-lua-00599C?style=flat-square&logo=lua)
-![asm](https://img.shields.io/badge/-asm-00599C?style=flat-square&logo=asm)
+![asm](https://img.shields.io/badge/-asm-00599C?style=flat-square&logo=assembly)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
