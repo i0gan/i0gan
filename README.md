@@ -4,7 +4,7 @@
 ## 🧑 About me:
 ### Hi there 👋
 - I'm i0gan! you can call me logan also. making games more funny.
-
+- Here is my [blog](http://i0gan.pwnsky.com)
 
   
 
