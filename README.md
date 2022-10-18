@@ -3,7 +3,7 @@
 
 ## 🧑 About me:
 ### Hi there 👋
-- I'm i0gan! you can call me logan also. making games more funny.
+- I'm i0gan! you can call me logan also. I'm lick game dev and syber scurity 
 - Here is my [blog](http://i0gan.pwnsky.com)
 
   
