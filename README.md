@@ -3,7 +3,7 @@
 
 ## 🧑 About me:
 ### Hi there 👋
-- I'm i0gan! you can call me logan also. I'm like syber scurity
+- I'm i0gan! you can call me logan also.
 - Here is my [blog](http://i0gan.pwnsky.com)
 
   
