@@ -5,7 +5,7 @@
 ### Hi there 👋
 - I'm i0gan! you can call me logan also.
 - Here is my blog: https://i0gan.github.io
-
+- Like Jamz's music: https://audiomack.com/jamz-santana
   
   <!--
   <summary><b>🔎 Github Profile Details</b></summary>
