@@ -9,7 +9,7 @@
 - Dream motor: Kawasaki Z1000
 - Dream car: Toyota GT86 or GR86
 - My motors: CFMOTO 250SR (now)
-- My Cars:  Citroen Triumph 2008 (now)、Geely Freeship 2011 (sold)
+- My Cars:  Citroen Triumph (now)、Geely Freeship (sold)
 
   <!--
   <summary><b>🔎 Github Profile Details</b></summary>
