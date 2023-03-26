@@ -7,9 +7,9 @@
 - Here is my blog: https://i0gan.github.io
 - Very melodious music: https://audiomack.com/jamz-santana
 - Dream motor: Kawasaki Z1000
-- My motors: CFMOTO 250SR (now)
+- My motors: CFMOTO 250SR (current)
 - Dream car: Toyota GT86 or GR86
-- My cars:  Citroen Triumph (now)、Geely Freeship (sold)
+- My cars:  Citroen Triumph (current)、Geely Freeship (sold)
 
   <!--
   <summary><b>🔎 Github Profile Details</b></summary>
