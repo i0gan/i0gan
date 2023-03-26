@@ -3,7 +3,7 @@
 
 ## 🧑 About me:
 ### Hi there 👋
-- I'm i0gan! you can call me logan also. A running guy for developing video game.
+- I'm i0gan! you can call me logan also. A running guy for developing video game. In my spare time, I like riding motorcycles and driving cars very much.
 - Here is my blog: https://i0gan.github.io
 - Very melodious music: https://audiomack.com/jamz-santana
 - Dream motor: Kawasaki Z1000
