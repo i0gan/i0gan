@@ -8,7 +8,7 @@
 - Very melodious music: https://audiomack.com/jamz-santana
 - Dream motor: Kawasaki Z1000
 - Dream car: Toyota GT86 or GR86
-- My motors: cfmotor 250sr (now)
+- My motors: CFMotor 250SR (now)
 - My Cars:  Citroen Triumph 2008 (now)、Geely Freeship 2011 (sold)
 
   <!--
