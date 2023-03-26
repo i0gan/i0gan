@@ -6,6 +6,8 @@
 - I'm i0gan! you can call me logan also. A running guy for developing video game.
 - Here is my blog: https://i0gan.github.io
 - Very melodious music: https://audiomack.com/jamz-santana
+- Dream motor: Kawasaki Z1000
+- Dream car: Toyota GT86 or GR86
   
   <!--
   <summary><b>🔎 Github Profile Details</b></summary>
