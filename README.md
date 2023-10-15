@@ -9,7 +9,7 @@
 - Dream motor: Kawasaki Z1000
 - My motors: CFMOTO 250SR (current)
 - Dream car: Toyota GT86 or GR86
-- My cars:  Citroen Triumph (current)、Geely Freeship (sold)
+- My cars:  Alpina D3(Toyota 1JZ GTE Engine, For drifting), Citroen Triumph (On sale), Geely Freeship (sold)
 
   <!--
   <summary><b>🔎 Github Profile Details</b></summary>
