@@ -6,10 +6,8 @@
 - I'm i0gan! you can call me logan also. A running guy for developing video game. In my spare time, I like riding motorcycles, driving cars, playing roller skating and playing video game.
 - Here is my blog: https://i0gan.github.io
 - Very melodious music: https://audiomack.com/jamz-santana
-- Dream motor: Kawasaki Z1000
-- My motors: CFMOTO 250SR (current)
-- Dream car: Toyota GT86 or GR86
-- My cars:  Alpina D3(Toyota 1JZ GTE Engine, For drifting), Citroen Triumph (On sale), Geely Freeship (sold)
+- Dream motor: Kawasaki Z1000, My motors: CFMOTO 250SR (sold)
+- Dream car: Toyota GT86 or GR86, My cars:  Alpina D3(Toyota 1JZ GTE Engine, For drifting), Citroen Triumph (On sale), Geely Freeship (sold)
 
   <!--
   <summary><b>🔎 Github Profile Details</b></summary>
