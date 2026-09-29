@@ -3,7 +3,7 @@
 
 ## 🧑 About me:
 ### Hi there 👋
-- I'm i0gan! you can call me logan also. A running guy for developing video game. In my spare time, I like riding motorcycles, driving cars, playing roller skating and playing video games.
+- I'm i0gan! you can call me logan also. A running guy for developing video game. I have worked on games such as *Wuthering Waves (鸣潮)*, *Pokémon UNITE (宝可梦大集结)*, *Running Kids (逃跑吧少年)*, *Conqueror's Blade (战意)*, *Conqueror's Blade: Three Kingdoms(战意三国)*, and *QQ Dance(QQ炫舞)*. In my spare time, I like riding motorcycles, driving cars, playing roller skating and playing video games.
 - Here is my blog: https://i0gan.github.io
 - Very melodious music: https://audiomack.com/jamz-santana
 - Dream motor: Kawasaki Z1000, My motors: CFMOTO 250SR (sold)
